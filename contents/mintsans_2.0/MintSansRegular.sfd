@@ -1,0 +1,2691 @@
+SplineFontDB: 3.2
+FontName: MintSansRegular
+FullName: MintSans Regular
+FamilyName: MintSans
+Weight: Regular
+Copyright: Copyright (c) 2020, pprmint
+UComments: "2020-5-16: Created with FontForge (http://fontforge.org)"
+FontLog: "FONTLOG for the MintSans fonts.+AAoACgAA-This file provides basic information on the+AAoA-MintSans ExtraLight font software.+AAoACgAA-This information should be distributed along with+AAoA-MintSans fonts and any derivative works.+AAoACgAK-Basic Font Information+AAoACgAA-MintSans is a Unicode typeface that supports basic+AAoA-latin, taking inspiration from other popular sans-serif+AAoA-and geometric fonts. It is also the successor of the +AAoA-short-lived Butterknife font, my first attempt at creating+AAoA-a custom font.+AAoACgAA-Glyphs are designed in Serif Affinity Designer, exported+AAoA-as SVG files and then imported into FontForge.+AAoACgAA-MintSans removed the round accents of Butterknife+AAoA-and includes support for a more complete set of+AAoA-characters and some ligatures.+AAoACgAA-More specifically, this relesae supports the+AAoA-Unicode range +ACIA-Basic Latin+ACIACgAKAAoA-Changelog+AAoACgAA-12 July 2020+AAoA-- I'm tired.+AAoACgAA-16 May 2020+AAoA-- Initial release+AAoACgAK-Acknowledgements+AAoACgAA-If you make modifications be sure to add your name (N),+AAoA-email (E), web-address (if you have one) (W) and+AAoA-description (D). This list is in alphabetical order.+AAoACgAA-N: Nicklas Scharp+AAoA-E: mail@pprmint.de+AAoA-W: pprmint.de+AAoA-D: Designer - original Basic Latin glyphs"
+Version: 2.0
+ItalicAngle: 0
+UnderlinePosition: -99
+UnderlineWidth: 49
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Hinten" 1
+Layer: 1 0 "Vorne" 0
+XUID: [1021 824 1456758389 29995]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1589215755
+ModificationTime: 1594569832
+PfmFamily: 33
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 90
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 258 0 0 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0" { "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2020, Nicklas Scharp (https://pprmint.de),+AAoA-with Reserved Font Name MintSans.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 51 17 8
+BeginPrivate: 0
+EndPrivate
+BeginChars: 256 96
+
+StartChar: uni0000
+Encoding: 0 0 0
+Width: 1000
+HStem: 0 21G<380 420> 292 30<372 428> 407 84<400 429> 780 20G<380 420>
+LayerCount: 2
+Fore
+SplineSet
+457 549 m 1
+ 343 549 l 1
+ 286 491 l 1
+ 286 434 l 1
+ 343 434 l 1
+ 343 465 l 1
+ 373 491 l 1
+ 429 491 l 1
+ 457 463 l 1
+ 457 435 l 1
+ 429 407 l 1
+ 400 407 l 1
+ 372 378 l 1
+ 372 322 l 1
+ 428 322 l 1
+ 428 350 l 1
+ 457 350 l 1
+ 514 407 l 1
+ 514 491 l 1
+ 457 549 l 1
+429 292 m 1
+ 372 292 l 1
+ 372 235 l 1
+ 429 235 l 1
+ 429 292 l 1
+400 800 m 1
+ 800 400 l 1
+ 400 0 l 1
+ 0 400 l 1
+ 400 800 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 1
+Width: 193
+VWidth: 999
+Flags: W
+HStem: -15 113<13.1711 100.829> 781 20G<16 98>
+VStem: 0 114<-2.2356 84.8289> 16 82<185 801>
+LayerCount: 2
+Fore
+SplineSet
+57 98 m 0xe0
+ 88 98 114 72 114 41 c 0
+ 114 10 88 -15 57 -15 c 0
+ 26 -15 0 10 0 41 c 0
+ 0 72 26 98 57 98 c 0xe0
+98 801 m 1xd0
+ 98 185 l 1
+ 16 185 l 1
+ 16 801 l 1
+ 98 801 l 1xd0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 2
+Width: 328
+VWidth: 999
+Flags: W
+HStem: 494 307<0 82 166 248>
+VStem: 0 82<494 801> 166 82<494 801>
+LayerCount: 2
+Fore
+SplineSet
+82 801 m 1
+ 82 494 l 1
+ 0 494 l 1
+ 0 801 l 1
+ 82 801 l 1
+248 801 m 1
+ 248 494 l 1
+ 166 494 l 1
+ 166 801 l 1
+ 248 801 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 3
+Width: 746
+VWidth: 999
+Flags: W
+HStem: -1 21G<102 187.426 344 429.519> 215 76<13 139 234 382 477 603> 509 76<63 190 285 432 527 653> 781 20G<236.574 322 478.574 564>
+LayerCount: 2
+Fore
+SplineSet
+285 585 m 1
+ 445 585 l 1
+ 482 801 l 1
+ 564 801 l 1
+ 527 585 l 1
+ 666 585 l 1
+ 653 509 l 1
+ 514 509 l 1
+ 477 291 l 1
+ 616 291 l 1
+ 603 215 l 1
+ 464 215 l 1
+ 426 -1 l 1
+ 344 -1 l 1
+ 382 215 l 1
+ 221 215 l 1
+ 184 -1 l 1
+ 102 -1 l 1
+ 139 215 l 1
+ 0 215 l 1
+ 13 291 l 1
+ 152 291 l 1
+ 190 509 l 1
+ 50 509 l 1
+ 63 585 l 1
+ 203 585 l 1
+ 240 801 l 1
+ 322 801 l 1
+ 285 585 l 1
+432 509 m 1
+ 272 509 l 1
+ 234 291 l 1
+ 395 291 l 1
+ 432 509 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: dollar
+Encoding: 36 36 4
+Width: 647
+Flags: W
+HStem: -15 85<274 392.104> -4 85<124.807 182> 723 85<368 424.44> 730 85<180.184 276>
+VStem: 5 85<522.083 650.951> 482 86<142.901 272.65>
+LayerCount: 2
+Fore
+SplineSet
+276 730 m 1x1c
+ 166 728 90 662 90 587 c 0
+ 90 578 91 569 93 560 c 0
+ 110 493 174 471 241 455 c 1
+ 276 730 l 1x1c
+310 352 m 1
+ 274 70 l 1
+ 279 70 284 70 289 70 c 0x8c
+ 403 70 482 131 482 205 c 0
+ 482 210 482 214 481 219 c 0
+ 468 310 392 333 310 352 c 1
+368 808 m 1x2c
+ 489 786 542 724 542 724 c 1
+ 478 667 l 1
+ 478 667 441 707 357 723 c 1
+ 321 438 l 1
+ 439 410 547 368 566 231 c 0
+ 567 223 568 214 568 206 c 0
+ 568 91 461 -15 289 -15 c 0
+ 280 -15 272 -15 263 -15 c 1xac
+ 247 -138 l 1
+ 165 -138 l 1
+ 182 -4 l 1
+ 72 20 -0 73 -0 73 c 1
+ 50 142 l 1
+ 50 142 107 101 193 81 c 1
+ 230 370 l 1
+ 125 395 35 434 10 540 c 0
+ 6 555 5 571 5 586 c 0
+ 5 704 110 815 281 815 c 0
+ 283 815 285 815 287 815 c 1x5c
+ 302 938 l 1
+ 384 938 l 1
+ 368 808 l 1x2c
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: percent
+Encoding: 37 37 5
+Width: 822
+Flags: W
+HStem: -15 67<511.93 636.139> -1 21G<92 191.771> 254 68<511.93 636.139> 477 68<106.861 231.401> 748 67<106.861 231.401> 781 20G<552.229 652>
+VStem: 0 68<583.861 708.331> 271 68<583.861 708.331> 406 67<90.9304 215.139> 675 68<90.9304 215.139>
+LayerCount: 2
+Fore
+SplineSet
+169 748 m 0x3bc0
+ 113 748 68 702 68 646 c 0
+ 68 590 113 545 169 545 c 0
+ 225 545 271 590 271 646 c 0
+ 271 702 225 748 169 748 c 0x3bc0
+169 815 m 0
+ 262 815 339 739 339 646 c 0
+ 339 553 262 477 169 477 c 0
+ 76 477 0 553 0 646 c 0
+ 0 739 76 815 169 815 c 0
+574 254 m 0
+ 518 254 473 209 473 153 c 0
+ 473 97 518 52 574 52 c 0xb3c0
+ 630 52 675 97 675 153 c 0
+ 675 209 630 254 574 254 c 0
+652 801 m 1x77c0
+ 180 -1 l 1
+ 92 -1 l 1
+ 564 801 l 1
+ 652 801 l 1x77c0
+574 322 m 0
+ 667 322 743 246 743 153 c 0
+ 743 60 667 -15 574 -15 c 0xb3c0
+ 481 -15 406 60 406 153 c 0
+ 406 246 481 322 574 322 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 6
+Width: 674
+VWidth: 999
+Flags: W
+HStem: -15 81<149.842 351.562> -2 21G<482.763 594> 732 81<193.479 306.752>
+VStem: 0 81<129.961 290.571> 80 82<584.41 699.605> 339 82<583.807 700.021> 512 81<250.047 357>
+LayerCount: 2
+Fore
+SplineSet
+245 -15 m 0xae
+ 86 -15 0 80 0 202 c 0xb6
+ 0 291 49 395 158 478 c 1
+ 111 545 l 2
+ 90 575 80 609 80 643 c 0
+ 80 697 106 749 153 782 c 0
+ 183 803 216 813 250 813 c 0
+ 304 813 357 788 390 741 c 0
+ 411 711 421 677 421 643 c 0
+ 421 589 395 537 348 504 c 2
+ 274 452 l 1
+ 461 187 l 1
+ 497 245 512 312 512 357 c 1
+ 593 357 l 1
+ 593 293 570 195 511 116 c 1
+ 594 -2 l 1
+ 497 -2 l 1x6e
+ 455 57 l 1
+ 403 14 334 -15 245 -15 c 0xae
+205 412 m 1
+ 122 348 81 271 81 204 c 0
+ 81 186 83 170 89 154 c 0
+ 108 101 163 66 245 66 c 0
+ 315 66 368 89 408 123 c 1
+ 205 412 l 1
+250 732 m 0
+ 199 732 162 688 162 643 c 0x2e
+ 162 625 167 608 178 592 c 2
+ 229 519 l 1
+ 302 570 l 2
+ 327 587 339 615 339 643 c 0
+ 339 694 295 732 250 732 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 7
+Width: 161
+VWidth: 999
+Flags: W
+HStem: 494 307<0 82>
+VStem: 0 82<494 801>
+LayerCount: 2
+Fore
+SplineSet
+0 494 m 1
+ 0 801 l 1
+ 82 801 l 1
+ 82 494 l 1
+ 0 494 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: parenleft
+Encoding: 40 40 8
+Width: 263
+VWidth: 999
+Flags: W
+VStem: -5 84<187.979 610.387>
+LayerCount: 2
+Fore
+SplineSet
+123 -102 m 1
+ 51 34 -5 199 -5 397 c 0
+ -5 512 16 638 50 735 c 0
+ 69 791 94 847 123 902 c 1
+ 178 876 l 1
+ 146 797 124 719 107 641 c 0
+ 89 559 79 479 79 397 c 0
+ 79 318 89 238 106 158 c 0
+ 123 80 145 3 178 -76 c 1
+ 123 -102 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: parenright
+Encoding: 41 41 9
+Width: 263
+VWidth: 999
+Flags: W
+VStem: 100 83<189.613 615.436>
+LayerCount: 2
+Fore
+SplineSet
+55 -102 m 1
+ 0 -77 l 1
+ 32 2 55 81 72 159 c 0
+ 90 241 100 321 100 403 c 0
+ 100 482 90 561 73 641 c 0
+ 56 719 33 797 0 876 c 1
+ 55 902 l 1
+ 97 823 129 750 152 660 c 0
+ 174 575 183 489 183 403 c 0
+ 183 288 162 162 128 65 c 0
+ 109 9 84 -47 55 -102 c 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 10
+Width: 394
+VWidth: 999
+Flags: W
+HStem: 492 324
+VStem: 130 54<492.04 608 700 815.939>
+LayerCount: 2
+Fore
+SplineSet
+34 764 m 1
+ 34 764 80 733 131 700 c 1
+ 130 732 123 816 123 816 c 1
+ 191 816 l 1
+ 191 816 185 732 184 700 c 1
+ 211 717 280 764 280 764 c 1
+ 314 705 l 1
+ 314 705 237 668 210 654 c 1
+ 237 640 314 602 314 602 c 1
+ 280 544 l 1
+ 280 544 211 591 184 608 c 1
+ 187 547 191 492 191 492 c 1
+ 123 492 l 1
+ 123 492 127 547 130 608 c 1
+ 79 574 34 544 34 544 c 1
+ -0 602 l 1
+ -0 602 50 626 104 654 c 1
+ 50 682 -0 705 -0 705 c 1
+ 34 764 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: plus
+Encoding: 43 43 11
+Width: 454
+VWidth: 999
+Flags: W
+HStem: 359 82<0 146 229 375> 567 20G<146 229>
+VStem: 146 83<213 359 441 587>
+LayerCount: 2
+Fore
+SplineSet
+229 441 m 1
+ 375 441 l 1
+ 375 359 l 1
+ 229 359 l 1
+ 229 213 l 1
+ 146 213 l 1
+ 146 359 l 1
+ -0 359 l 1
+ -0 441 l 1
+ 146 441 l 1
+ 146 587 l 1
+ 229 587 l 1
+ 229 441 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: comma
+Encoding: 44 44 12
+Width: 222
+VWidth: 999
+Flags: W
+HStem: -114 212
+VStem: 0 143
+LayerCount: 2
+Fore
+SplineSet
+143 98 m 1
+ 51 -114 l 1
+ 0 -114 l 1
+ 54 98 l 1
+ 143 98 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 12 3 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 14 44 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 13
+Width: 454
+VWidth: 999
+Flags: W
+HStem: 359 82<0 375>
+LayerCount: 2
+Fore
+SplineSet
+0 441 m 1
+ 375 441 l 1
+ 375 359 l 1
+ 0 359 l 1
+ 0 441 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: period
+Encoding: 46 46 14
+Width: 193
+VWidth: 999
+Flags: W
+HStem: -15 113<13.1711 100.829>
+VStem: 0 114<-2.2356 84.8289>
+LayerCount: 2
+Fore
+SplineSet
+0 41 m 0
+ 0 72 26 98 57 98 c 0
+ 88 98 114 72 114 41 c 0
+ 114 10 88 -15 57 -15 c 0
+ 26 -15 0 10 0 41 c 0
+EndSplineSet
+Validated: 1
+Kerns2: 12 25 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 14 63 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -204 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -207 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -42 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 66 65 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -42 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -42 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -37 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -42 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -42 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -168 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -127 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: slash
+Encoding: 47 47 15
+Width: 336
+Flags: W
+HStem: -0 21G<0 89.3> 780 20G<166.725 257>
+VStem: 0 257
+LayerCount: 2
+Fore
+SplineSet
+257 800 m 1
+ 85 -0 l 1
+ 0 -0 l 1
+ 171 800 l 1
+ 257 800 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: zero
+Encoding: 48 48 16
+Width: 597
+Flags: W
+HStem: -15 86<176.479 341.521> 729 86<176.479 341.521>
+VStem: 0 87<161.011 638.989> 431 87<161.011 638.989>
+LayerCount: 2
+Fore
+SplineSet
+431 243 m 2
+ 431 557 l 2
+ 431 652 354 729 259 729 c 0
+ 164 729 87 652 87 557 c 2
+ 87 243 l 2
+ 87 148 164 71 259 71 c 0
+ 354 71 431 148 431 243 c 2
+0 557 m 2
+ 0 700 116 815 259 815 c 0
+ 402 815 518 700 518 557 c 2
+ 518 243 l 2
+ 518 100 402 -15 259 -15 c 0
+ 116 -15 0 100 0 243 c 2
+ 0 557 l 2
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: one
+Encoding: 49 49 17
+Width: 252
+VWidth: 999
+Flags: W
+HStem: -1 21G<90 173> 719 82<0 90>
+VStem: 90 83<-1 719>
+LayerCount: 2
+Fore
+SplineSet
+0 801 m 1
+ 173 801 l 1
+ 173 -1 l 1
+ 90 -1 l 1
+ 90 719 l 1
+ 0 719 l 1
+ 0 801 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: two
+Encoding: 50 50 18
+Width: 591
+Flags: W
+HStem: -0 82<132 512> 729 86<168.692 346.155>
+VStem: 0 85<567 648.102> 420 86<476.105 654.686>
+LayerCount: 2
+Fore
+SplineSet
+85 567 m 1
+ 0 567 l 1
+ 0 708 111 815 250 815 c 0
+ 396 815 494 736 505 592 c 0
+ 505 585 506 579 506 572 c 0
+ 506 490 471 404 386 307 c 0
+ 328 240 244 167 132 82 c 1
+ 512 82 l 1
+ 512 -0 l 1
+ 13 -0 l 1
+ 13 82 l 1
+ 156 191 258 282 324 361 c 0
+ 389 439 420 504 420 568 c 0
+ 420 574 419 579 419 585 c 0
+ 411 683 349 729 250 729 c 0
+ 159 729 85 659 85 567 c 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: three
+Encoding: 51 51 19
+Width: 592
+Flags: W
+HStem: -15 77<173.236 338.764> 718 82<16 396>
+VStem: 0 81<152.047 231> 431 81<151.32 311.184>
+LayerCount: 2
+Fore
+SplineSet
+256 399 m 0
+ 227 399 209 397 189 393 c 1
+ 189 454 l 1
+ 396 718 l 1
+ 16 718 l 1
+ 16 800 l 1
+ 496 800 l 1
+ 496 718 l 1
+ 305 472 l 1
+ 423 450 512 351 512 231 c 0
+ 512 95 397 -15 256 -15 c 0
+ 115 -15 0 95 0 231 c 1
+ 81 231 l 1
+ 81 138 159 62 256 62 c 0
+ 353 62 431 138 431 231 c 0
+ 431 324 353 399 256 399 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: four
+Encoding: 52 52 20
+Width: 631
+VWidth: 999
+Flags: W
+HStem: -1 21G<360 442> 184 82<94 360 442 551> 781 20G<252.206 356>
+VStem: 360 82<-1 184 266 478>
+LayerCount: 2
+Fore
+SplineSet
+262 801 m 1
+ 356 801 l 1
+ 94 266 l 1
+ 360 266 l 1
+ 360 478 l 1
+ 442 478 l 1
+ 442 266 l 1
+ 551 266 l 1
+ 551 184 l 1
+ 442 184 l 1
+ 442 -1 l 1
+ 360 -1 l 1
+ 360 184 l 1
+ -0 184 l 1
+ -0 266 l 1
+ 262 801 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: five
+Encoding: 53 53 21
+Width: 578
+Flags: W
+HStem: -15 79<144.424 317.951> 426 80<143.312 317.951> 718 82<125 466>
+VStem: 417 82<162.018 328.035>
+LayerCount: 2
+Fore
+SplineSet
+54 800 m 1
+ 466 800 l 1
+ 466 718 l 1
+ 125 718 l 1
+ 102 473 l 1
+ 141 494 185 506 231 506 c 0
+ 378 506 499 389 499 245 c 0
+ 499 101 378 -15 231 -15 c 0
+ 136 -15 48 34 0 115 c 1
+ 71 155 l 1
+ 104 99 165 64 231 64 c 0
+ 333 64 417 145 417 245 c 0
+ 417 345 333 426 231 426 c 0
+ 172 426 117 399 82 353 c 1
+ 15 400 l 1
+ 54 800 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: six
+Encoding: 54 54 22
+Width: 594
+Flags: W
+HStem: -15 79<175.612 344.388> 424 80<190.094 344.388> 781 20G<250.412 351>
+VStem: 0 80<159.665 329.684> 440 80<159.665 328.388>
+LayerCount: 2
+Fore
+SplineSet
+260 424 m 0
+ 161 424 80 343 80 244 c 0
+ 80 145 161 64 260 64 c 0
+ 359 64 440 145 440 244 c 0
+ 440 343 359 424 260 424 c 0
+189 494 m 1
+ 212 500 235 504 260 504 c 0
+ 403 504 520 387 520 244 c 0
+ 520 101 403 -15 260 -15 c 0
+ 117 -15 0 101 0 244 c 0
+ 0 292 13 337 36 376 c 1
+ 261 801 l 1
+ 351 801 l 1
+ 189 494 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: seven
+Encoding: 55 55 23
+Width: 575
+Flags: W
+HStem: -0 21G<78 177.109> 718 82<0 406>
+LayerCount: 2
+Fore
+SplineSet
+406 718 m 1
+ 0 718 l 1
+ 0 800 l 1
+ 495 800 l 1
+ 495 718 l 1
+ 168 -0 l 1
+ 78 -0 l 1
+ 406 718 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: eight
+Encoding: 56 56 24
+Width: 587
+Flags: W
+HStem: -15 75<166.196 335.984> 387 75<172.131 330.142> 740 75<171.091 331.056>
+VStem: -5 81<146.713 301.208> 20 82<530.023 671.371> 401 81<530.023 671.371> 427 81<146.713 301.208>
+LayerCount: 2
+Fore
+SplineSet
+254 462 m 1xec
+ 335 463 401 525 401 601 c 0
+ 401 678 334 740 251 740 c 0
+ 168 740 102 678 102 601 c 0
+ 102 525 167 463 248 462 c 1
+ 254 462 l 1xec
+251 387 m 0
+ 154 387 76 314 76 224 c 0
+ 76 134 154 60 251 60 c 0
+ 348 60 427 134 427 224 c 0xf2
+ 427 314 348 387 251 387 c 0
+117 427 m 1
+ 59 466 20 529 20 601 c 0
+ 20 719 124 815 251 815 c 0
+ 378 815 482 719 482 601 c 0xec
+ 482 529 445 466 386 427 c 1
+ 459 385 508 310 508 224 c 0
+ 508 92 393 -15 251 -15 c 0
+ 109 -15 -5 92 -5 224 c 0
+ -5 310 44 385 117 427 c 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: nine
+Encoding: 57 57 25
+Width: 599
+Flags: W
+HStem: -0 21G<168 268.613> 296 80<175.612 329.328> 736 79<175.612 344.219>
+VStem: 0 80<471.612 640.335> 439 80<470.316 640.335>
+LayerCount: 2
+Fore
+SplineSet
+260 376 m 0
+ 359 376 439 457 439 556 c 0
+ 439 655 359 736 260 736 c 0
+ 161 736 80 655 80 556 c 0
+ 80 457 161 376 260 376 c 0
+330 306 m 1
+ 307 300 285 296 260 296 c 0
+ 117 296 0 413 0 556 c 0
+ 0 699 117 815 260 815 c 0
+ 403 815 519 699 519 556 c 0
+ 519 508 506 463 483 424 c 1
+ 258 -0 l 1
+ 168 -0 l 1
+ 330 306 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: colon
+Encoding: 58 58 26
+Width: 193
+Flags: W
+HStem: -15 113<13.1711 100.829> 343 113<13.1711 100.829>
+VStem: 0 114<-2.2356 84.8289 356.171 443.236>
+LayerCount: 2
+Fore
+SplineSet
+57 456 m 0
+ 88 456 114 431 114 400 c 0
+ 114 369 88 343 57 343 c 0
+ 26 343 0 369 0 400 c 0
+ 0 431 26 456 57 456 c 0
+57 98 m 0
+ 88 98 114 72 114 41 c 0
+ 114 10 88 -15 57 -15 c 0
+ 26 -15 0 10 0 41 c 0
+ 0 72 26 98 57 98 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 27
+Width: 230
+Flags: W
+HStem: 343 113<49.7644 136.829>
+VStem: 37 113<356.171 443.236>
+LayerCount: 2
+Fore
+SplineSet
+93 456 m 0
+ 124 456 150 431 150 400 c 0
+ 150 369 124 343 93 343 c 0
+ 62 343 37 369 37 400 c 0
+ 37 431 62 456 93 456 c 0
+143 98 m 1
+ 51 -114 l 1
+ 0 -114 l 1
+ 54 98 l 1
+ 143 98 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: less
+Encoding: 60 60 28
+Width: 451
+VWidth: 999
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 357 m 1
+ 0 443 l 1
+ 371 625 l 1
+ 371 539 l 1
+ 88 400 l 1
+ 371 261 l 1
+ 371 175 l 1
+ 0 357 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: equal
+Encoding: 61 61 29
+Width: 403
+VWidth: 999
+Flags: W
+HStem: 282 78<0 324> 435 83<0 324>
+VStem: -0 324<282 360 435 518>
+LayerCount: 2
+Fore
+SplineSet
+324 282 m 1
+ -0 282 l 1
+ -0 360 l 1
+ 324 360 l 1
+ 324 282 l 1
+324 435 m 1
+ -0 435 l 1
+ -0 518 l 1
+ 324 518 l 1
+ 324 435 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: greater
+Encoding: 62 62 30
+Width: 451
+VWidth: 999
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+283 400 m 1
+ 0 539 l 1
+ 0 625 l 1
+ 371 443 l 1
+ 371 357 l 1
+ 0 175 l 1
+ 0 261 l 1
+ 283 400 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: question
+Encoding: 63 63 31
+Width: 579
+Flags: W
+HStem: -15 113<183.171 270.829> 730 85<163.555 332.397>
+VStem: 170 114<-2.2356 84.8289> 183 85<184 280.342> 414 86<502.387 653.251>
+LayerCount: 2
+Fore
+SplineSet
+78 616 m 1xd8
+ 0 651 l 1
+ 0 651 74 815 245 815 c 0
+ 400 815 500 703 500 581 c 0
+ 500 566 498 550 495 535 c 0
+ 475 442 429 399 380 364 c 0
+ 327 326 268 301 268 184 c 1
+ 183 184 l 1
+ 183 321 238 369 299 412 c 0
+ 343 443 393 469 411 553 c 0
+ 413 563 414 573 414 582 c 0
+ 414 660 346 730 245 730 c 0
+ 128 730 78 616 78 616 c 1xd8
+227 98 m 0
+ 258 98 284 72 284 41 c 0
+ 284 10 258 -15 227 -15 c 0
+ 196 -15 170 10 170 41 c 0xe8
+ 170 72 196 98 227 98 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: at
+Encoding: 64 64 32
+Width: 1135
+Flags: W
+HStem: -238 57<391.247 659.962> -11 77<827.133 927.887> -8 88<432.379 607.346> 487 89<432.379 607.48> 760 57<385.707 656.287>
+VStem: -5 57<153.195 424.426> 230 89<194.159 373.735> 717 89<192.86 374.928 465 553> 993 57<158.861 425.378>
+LayerCount: 2
+Fore
+SplineSet
+717 284 m 0xbf80
+ 717 394 631 484 523 487 c 1
+ 518 487 l 2
+ 408 487 319 396 319 284 c 0
+ 319 172 408 80 518 80 c 2
+ 523 80 l 1
+ 631 83 717 174 717 284 c 0xbf80
+872 66 m 0xdf80
+ 956 66 989 173 993 290 c 1
+ 993 548 786 756 529 759 c 1
+ 523 760 l 1
+ 263 760 52 549 52 289 c 0
+ 52 29 263 -181 523 -181 c 2
+ 527 -181 l 1
+ 622 -180 714 -150 792 -96 c 1
+ 825 -143 l 1
+ 738 -204 634 -237 528 -238 c 1
+ 523 -238 l 2
+ 232 -238 -5 -2 -5 289 c 0
+ -5 578 228 813 516 817 c 0
+ 520 817 525 817 529 817 c 0
+ 815 813 1046 582 1050 296 c 1
+ 1050 290 l 1
+ 1050 283 1050 276 1050 269 c 0
+ 1050 178 1032 117 1010 77 c 0
+ 966 -2 900 -10 872 -11 c 0
+ 871 -11 869 -11 868 -11 c 0xdf80
+ 791 -11 736 45 722 111 c 1
+ 684 40 617 -6 525 -8 c 1
+ 518 -8 l 2xbf80
+ 359 -8 230 122 230 284 c 0
+ 230 446 359 576 518 576 c 2
+ 525 576 l 1
+ 614 574 678 531 717 465 c 1
+ 717 553 l 1
+ 806 553 l 1
+ 806 141 l 1
+ 808 102 831 68 872 66 c 0xdf80
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: A
+Encoding: 65 65 33
+Width: 812
+Flags: W
+HStem: -0 21G<0 100.031 632.969 733> 254 82<227 506> 780 20G<312 420.025>
+LayerCount: 2
+Fore
+SplineSet
+366 685 m 1
+ 227 336 l 1
+ 506 336 l 1
+ 366 685 l 1
+412 800 m 1
+ 733 -0 l 1
+ 641 -0 l 1
+ 539 254 l 1
+ 194 254 l 1
+ 92 -0 l 1
+ 0 -0 l 1
+ 320 800 l 1
+ 412 800 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 -125 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -125 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -39 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -125 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -125 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -78 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -237 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 53 -91 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -287 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -255 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -315 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -76 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -76 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -77 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -136 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -93 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -76 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -76 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -45 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -152 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -50 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -193 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -170 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -199 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: B
+Encoding: 66 66 34
+Width: 642
+VWidth: 999
+Flags: W
+HStem: -1 82<82 411.967> 359 82<82 379.135> 719 82<82 379.809>
+VStem: 0 82<81 359 441 719> 445 81<506.335 652.695> 480 83<147.059 294.455>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+324 800 m 1xf4
+ 437 790 526 696 526 580 c 0xf8
+ 526 513 497 454 450 413 c 1
+ 517 375 563 303 563 220 c 0
+ 563 98 463 -1 341 -1 c 2
+ 0 -1 l 1
+ 0 801 l 1
+ 324 801 l 1
+ 324 800 l 1xf4
+341 359 m 2
+ 82 359 l 1
+ 82 81 l 1
+ 341 81 l 2
+ 418 81 480 143 480 220 c 0xf4
+ 480 297 418 359 341 359 c 2
+322 719 m 1
+ 82 719 l 1
+ 82 441 l 1
+ 322 441 l 1
+ 391 449 445 509 445 580 c 0xf8
+ 445 651 391 711 322 719 c 1
+EndSplineSet
+Validated: 1
+Kerns2: 33 -65 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -8 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -105 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -113 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -98 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -93 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -152 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -51 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -62 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -58 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -57 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -51 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -45 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -50 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: C
+Encoding: 67 67 35
+Width: 789
+VWidth: 999
+Flags: W
+HStem: -15 84<301.347 530.708> 731 84<301.347 530.708>
+VStem: 0 85<286.286 513.714>
+LayerCount: 2
+Fore
+SplineSet
+709 694 m 1
+ 649 634 l 1
+ 587 696 503 731 415 731 c 0
+ 232 731 85 583 85 400 c 0
+ 85 217 232 69 415 69 c 0
+ 503 69 587 104 649 166 c 1
+ 709 106 l 1
+ 631 28 525 -15 415 -15 c 0
+ 186 -15 0 171 0 400 c 0
+ 0 629 186 815 415 815 c 0
+ 525 815 631 772 709 694 c 1
+EndSplineSet
+Validated: 1
+Kerns2: 33 -66 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 35 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -47 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -3 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -77 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -41 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -45 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -18 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -62 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -56 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -41 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -14 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -11 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -16 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -10 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -15 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -41 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -41 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -16 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -41 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -69 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -29 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -65 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -30 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: D
+Encoding: 68 68 36
+Width: 781
+VWidth: 999
+Flags: W
+HStem: -1 82<82 410.489> 719 82<82 410.489>
+VStem: 0 82<81 719> 619 83<290.387 509.613>
+LayerCount: 2
+Fore
+SplineSet
+0 801 m 1
+ 301 801 l 2
+ 522 801 702 621 702 400 c 0
+ 702 179 522 -1 301 -1 c 2
+ 0 -1 l 1
+ 0 801 l 1
+82 719 m 1
+ 82 81 l 1
+ 301 81 l 2
+ 477 81 619 224 619 400 c 0
+ 619 576 477 719 301 719 c 2
+ 82 719 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 33 -128 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -51 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -37 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -84 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -121 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -101 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -60 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -172 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -108 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -56 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -52 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -20 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -34 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -58 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: E
+Encoding: 69 69 37
+Width: 619
+VWidth: 999
+Flags: W
+HStem: -1 82<82 539> 359 82<82 432> 719 82<82 539>
+VStem: 0 82<81 359 441 719>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+0 801 m 1
+ 539 801 l 1
+ 539 719 l 1
+ 82 719 l 1
+ 82 441 l 1
+ 432 441 l 1
+ 432 359 l 1
+ 82 359 l 1
+ 82 81 l 1
+ 539 81 l 1
+ 539 -1 l 1
+ 0 -1 l 1
+ 0 801 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 -69 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -69 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -45 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -83 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -83 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -39 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -83 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -83 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -82 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -83 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -45 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -83 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -83 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -69 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -49 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -74 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -25 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -86 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -88 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -83 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: F
+Encoding: 70 70 38
+Width: 619
+VWidth: 999
+Flags: W
+HStem: -1 21G<0 82> 359 82<82 432> 719 82<82 539>
+VStem: -0 82<-1 359 441 719>
+LayerCount: 2
+Fore
+SplineSet
+-0 801 m 1
+ 539 801 l 1
+ 539 719 l 1
+ 82 719 l 1
+ 82 441 l 1
+ 432 441 l 1
+ 432 359 l 1
+ 82 359 l 1
+ 82 -1 l 1
+ -0 -1 l 1
+ -0 801 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 33 -233 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 35 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -91 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -194 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -91 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -98 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -118 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -111 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -110 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -94 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -123 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 77 -87 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 78 -87 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -111 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 80 -87 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -111 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 82 -60 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -100 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -79 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -130 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -120 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -119 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -128 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -108 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: G
+Encoding: 71 71 39
+Width: 813
+VWidth: 999
+Flags: W
+HStem: -15 84<301.347 532.255> 346 82<391 651> 731 85<301.347 530.708>
+VStem: 0 85<286.286 513.753> 651 82<148.309 346>
+LayerCount: 2
+Fore
+SplineSet
+733 133 m 1
+ 654 39 538 -15 415 -15 c 0
+ 186 -15 0 171 0 400 c 0
+ 0 629 186 816 415 816 c 0
+ 525 816 631 772 709 694 c 1
+ 649 634 l 1
+ 587 696 503 731 415 731 c 0
+ 232 731 85 583 85 400 c 0
+ 85 217 232 69 415 69 c 0
+ 504 69 589 105 651 168 c 1
+ 651 346 l 1
+ 391 346 l 1
+ 391 428 l 1
+ 733 428 l 1
+ 733 330 733 231 733 133 c 1
+EndSplineSet
+Validated: 1
+Kerns2: 33 -54 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -95 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -43 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -43 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -38 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -68 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -52 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -58 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -39 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -82 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -69 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -43 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -81 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -61 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: H
+Encoding: 72 72 40
+Width: 701
+VWidth: 999
+Flags: W
+HStem: -1 21G<0 82 540 622> 359 83<82 540> 781 20G<0 82 540 622>
+VStem: -0 82<-1 359 442 801> 540 82<-1 359 442 801>
+LayerCount: 2
+Fore
+SplineSet
+82 442 m 1
+ 540 442 l 1
+ 540 801 l 1
+ 622 801 l 1
+ 622 -1 l 1
+ 540 -1 l 1
+ 540 359 l 1
+ 82 359 l 1
+ 82 -1 l 1
+ -0 -1 l 1
+ -0 801 l 1
+ 82 801 l 1
+ 82 442 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 89 -17 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: I
+Encoding: 73 73 41
+Width: 162
+VWidth: 999
+Flags: W
+HStem: -1 21G<0 82> 781 20G<0 82>
+VStem: 0 82<-1 801>
+LayerCount: 2
+Fore
+SplineSet
+0 -1 m 1
+ 0 801 l 1
+ 82 801 l 1
+ 82 -1 l 1
+ 0 -1 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 89 -16 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: J
+Encoding: 74 74 42
+Width: 552
+Flags: W
+HStem: -15 82<159.904 312.096> 780 20G<390 472>
+VStem: -0 82<145.439 221> 390 82<144.546 800>
+LayerCount: 2
+Fore
+SplineSet
+472 800 m 1
+ 472 220 l 2
+ 472 90 366 -15 236 -15 c 0
+ 106 -15 0 91 -0 221 c 1
+ 82 221 l 1
+ 82 136 151 67 236 67 c 0
+ 321 67 390 136 390 221 c 2
+ 390 800 l 1
+ 472 800 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 33 -62 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -16 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: K
+Encoding: 75 75 43
+Width: 701
+VWidth: 999
+Flags: W
+HStem: -1 21G<0 82 500.171 621> 781 20G<0 82 445.411 576>
+VStem: -0 82<-1 269 390 801>
+LayerCount: 2
+Fore
+SplineSet
+82 390 m 1
+ 464 801 l 1
+ 576 801 l 1
+ 258 458 l 1
+ 621 -1 l 1
+ 516 -1 l 1
+ 201 397 l 1
+ 82 269 l 1
+ 82 -1 l 1
+ -0 -1 l 1
+ -0 801 l 1
+ 82 801 l 1
+ 82 390 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 -86 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -86 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -86 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -86 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -65 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -102 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 53 -44 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -128 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -124 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -123 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -133 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -133 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -133 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -132 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -97 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -119 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 74 -132 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -93 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -93 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -60 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -94 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -36 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -99 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -97 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -98 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: L
+Encoding: 76 76 44
+Width: 619
+VWidth: 999
+Flags: W
+HStem: -1 82<82 540> 781 20G<0 82>
+VStem: -0 82<81 801>
+LayerCount: 2
+Fore
+SplineSet
+82 81 m 1
+ 540 81 l 1
+ 540 -1 l 1
+ -0 -1 l 1
+ -0 801 l 1
+ 82 801 l 1
+ 82 81 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 -134 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -134 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -61 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -134 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -134 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -30 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -265 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 53 -92 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -328 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -274 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -281 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -90 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -90 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -91 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -89 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -89 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -111 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -90 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -90 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -30 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -139 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -60 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -232 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -195 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -230 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: M
+Encoding: 77 77 45
+Width: 912
+VWidth: 999
+Flags: W
+HStem: -1 21G<0 82 750 833> 781 20G<0 103.59 729.377 833>
+VStem: 0 82<-1 646> 750 83<-1 646>
+LayerCount: 2
+Fore
+SplineSet
+0 801 m 1
+ 93 801 l 1
+ 416 191 l 1
+ 740 801 l 1
+ 833 801 l 1
+ 833 -1 l 1
+ 750 -1 l 1
+ 750 646 l 1
+ 463 103 l 1
+ 370 103 l 1
+ 82 646 l 1
+ 82 -1 l 1
+ 0 -1 l 1
+ 0 801 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 89 -17 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: N
+Encoding: 78 78 46
+Width: 740
+VWidth: 999
+Flags: W
+HStem: -1 21G<0 82 543.091 660> 781 20G<0 116.909 578 660>
+VStem: 0 82<-1 682> 578 82<118 801>
+LayerCount: 2
+Fore
+SplineSet
+82 682 m 1
+ 82 -1 l 1
+ 0 -1 l 1
+ 0 801 l 1
+ 103 801 l 1
+ 578 118 l 1
+ 578 801 l 1
+ 660 801 l 1
+ 660 -1 l 1
+ 557 -1 l 1
+ 82 682 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 89 -17 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: O
+Encoding: 79 79 47
+Width: 910
+VWidth: 999
+Flags: W
+HStem: -15 84<301.347 528.753> 731 84<301.347 528.753>
+VStem: 0 85<286.286 513.714> 746 85<286.286 513.714>
+LayerCount: 2
+Fore
+SplineSet
+415 815 m 0
+ 644 815 831 629 831 400 c 0
+ 831 171 644 -15 415 -15 c 0
+ 186 -15 0 171 0 400 c 0
+ 0 629 186 815 415 815 c 0
+415 731 m 0
+ 232 731 85 583 85 400 c 0
+ 85 217 232 69 415 69 c 0
+ 598 69 746 217 746 400 c 0
+ 746 583 598 731 415 731 c 0
+EndSplineSet
+Validated: 1
+Kerns2: 33 -125 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -35 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -151 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -86 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -82 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -110 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -123 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -95 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -54 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -50 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -18 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -33 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -31 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -34 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: P
+Encoding: 80 80 48
+Width: 655
+VWidth: 999
+Flags: W
+HStem: -1 21G<0 82> 295 82<82 403.25> 719 82<82 403.25>
+VStem: 0 82<-1 295 377 719> 493 82<466.718 629.282>
+LayerCount: 2
+Fore
+SplineSet
+575 548 m 0
+ 575 408 462 295 322 295 c 0
+ 242 295 162 295 82 295 c 1
+ 82 -1 l 1
+ 0 -1 l 1
+ 0 801 l 1
+ 322 801 l 2
+ 462 801 575 688 575 548 c 0
+82 719 m 1
+ 82 377 l 1
+ 322 377 l 2
+ 416 377 493 454 493 548 c 0
+ 493 642 416 719 322 719 c 2
+ 82 719 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 33 -171 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -210 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -65 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -61 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -51 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -87 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -68 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -62 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -62 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -61 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -61 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -62 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -62 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: Q
+Encoding: 81 81 49
+Width: 920
+VWidth: 999
+Flags: W
+HStem: -15 84<301.347 530.809> -1 21G<763.241 803.419> 731 84<301.347 528.753>
+VStem: 0 85<286.286 513.714> 746 85<281.848 513.714>
+LayerCount: 2
+Fore
+SplineSet
+687 86 m 1x78
+ 614 23 519 -15 415 -15 c 0xb8
+ 186 -15 0 171 0 400 c 0
+ 0 629 186 815 415 815 c 0
+ 644 815 831 629 831 400 c 0
+ 831 304 799 215 744 145 c 1
+ 840 61 l 1
+ 786 -1 l 1
+ 687 86 l 1x78
+680 201 m 1
+ 722 256 746 325 746 400 c 0
+ 746 583 598 731 415 731 c 0
+ 232 731 85 583 85 400 c 0
+ 85 217 232 69 415 69 c 0
+ 493 69 565 97 622 142 c 1
+ 515 235 l 1
+ 569 297 l 1
+ 680 201 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 42 -37 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -38 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -173 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -114 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -94 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -20 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -138 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -43 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -35 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -31 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -24 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -57 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: R
+Encoding: 82 82 50
+Width: 673
+VWidth: 999
+Flags: W
+HStem: -1 21G<0 82 476.973 594> 295 82<82 311> 719 82<82 403.25>
+VStem: -0 82<-1 295 377 719> 493 82<465.611 629.166>
+LayerCount: 2
+Fore
+SplineSet
+575 548 m 0
+ 575 438 505 344 407 309 c 1
+ 594 -1 l 1
+ 489 -1 l 1
+ 311 295 l 1
+ 82 295 l 1
+ 82 -1 l 1
+ -0 -1 l 1
+ -0 801 l 1
+ 322 801 l 2
+ 462 801 575 688 575 548 c 0
+322 719 m 1
+ 82 719 l 1
+ 82 377 l 1
+ 322 377 l 2
+ 416 377 493 454 493 548 c 0
+ 493 642 416 718 322 718 c 1
+ 322 719 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 42 -61 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -133 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -81 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -65 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -20 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -94 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -60 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -60 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -61 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -60 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -52 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -60 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -60 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -20 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: S
+Encoding: 83 83 51
+Width: 647
+Flags: W
+HStem: -15 85<159.005 394.204> 730 85<178.643 405.996>
+VStem: 5 85<521.725 650.951> 482 86<141.9 274.28>
+LayerCount: 2
+Fore
+SplineSet
+542 724 m 1
+ 478 667 l 1
+ 478 667 418 730 281 730 c 0
+ 168 730 90 664 90 587 c 0
+ 90 578 91 569 93 560 c 0
+ 112 474 217 461 303 442 c 0
+ 428 414 546 375 566 231 c 0
+ 567 223 568 214 568 206 c 0
+ 568 91 461 -15 289 -15 c 0
+ 122 -15 0 73 0 73 c 1
+ 50 142 l 1
+ 50 142 151 70 289 70 c 0
+ 403 70 482 131 482 205 c 0
+ 482 210 482 214 481 219 c 0
+ 473 275 440 306 398 325 c 0
+ 316 361 203 366 124 405 c 0
+ 69 432 26 472 10 540 c 0
+ 6 555 5 571 5 586 c 0
+ 5 704 110 815 281 815 c 0
+ 463 815 542 724 542 724 c 1
+EndSplineSet
+Validated: 1
+Kerns2: 33 -59 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -129 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -64 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -63 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -67 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -81 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -30 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -42 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -51 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -76 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -62 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -69 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -75 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -47 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: T
+Encoding: 84 84 52
+Width: 706
+VWidth: 999
+Flags: W
+HStem: -1 21G<272 355> 719 82<0 272 355 627>
+VStem: 272 83<-1 719>
+LayerCount: 2
+Fore
+SplineSet
+627 801 m 1
+ 627 719 l 1
+ 355 719 l 1
+ 355 -1 l 1
+ 272 -1 l 1
+ 272 719 l 1
+ 0 719 l 1
+ 0 801 l 1
+ 209 801 418 801 627 801 c 1
+EndSplineSet
+Validated: 1
+Kerns2: 33 -251 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 35 -118 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -118 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -178 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -118 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -118 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -67 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -224 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -224 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -227 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -224 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -91 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -223 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 77 -143 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 78 -137 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -225 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 80 -143 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -224 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 82 -143 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -201 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -107 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -139 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -142 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -134 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -141 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -142 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -144 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: U
+Encoding: 85 85 53
+Width: 706
+VWidth: 999
+Flags: W
+HStem: -15 83<219.115 407.018> 781 20G<0 83 544 627>
+VStem: -0 83<204.873 801> 544 83<204.873 801>
+LayerCount: 2
+Fore
+SplineSet
+544 298 m 2
+ 544 801 l 1
+ 627 801 l 1
+ 627 298 l 2
+ 627 125 486 -15 313 -15 c 0
+ 140 -15 0 125 -0 298 c 2
+ -0 801 l 1
+ 83 801 l 1
+ 83 298 l 2
+ 83 171 186 68 313 68 c 0
+ 440 68 544 171 544 298 c 2
+EndSplineSet
+Validated: 1
+Kerns2: 33 -67 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -16 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: V
+Encoding: 86 86 54
+Width: 872
+VWidth: 999
+Flags: W
+HStem: -1 21G<340.297 451.728> 781 20G<0 102.703 690.268 793>
+LayerCount: 2
+Fore
+SplineSet
+349 -1 m 1
+ 0 801 l 1
+ 94 801 l 1
+ 396 107 l 1
+ 699 801 l 1
+ 793 801 l 1
+ 443 -1 l 1
+ 349 -1 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 12 -297 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 14 -284 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 18 -59 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 20 -192 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 22 -179 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 24 -75 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 25 -57 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 33 -262 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 35 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -192 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -72 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -181 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -181 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -183 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -181 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -168 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 77 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 78 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -181 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 80 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -181 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 82 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -146 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -93 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -84 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -112 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -106 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -113 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -132 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -106 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: W
+Encoding: 87 87 55
+Width: 1326
+VWidth: 999
+Flags: W
+HStem: -1 21G<280.818 389.183 856.817 965.182> 781 20G<0 101.183 568.817 677.183 1144.82 1246>
+LayerCount: 2
+Fore
+SplineSet
+335 130 m 1
+ 576 801 l 1
+ 670 801 l 1
+ 911 130 l 1
+ 1152 801 l 1
+ 1246 801 l 1
+ 958 -1 l 1
+ 864 -1 l 1
+ 623 670 l 1
+ 382 -1 l 1
+ 288 -1 l 1
+ -0 801 l 1
+ 94 801 l 1
+ 335 130 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 12 -259 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 14 -227 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 33 -236 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 35 -96 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -96 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -181 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -96 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -96 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -71 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -147 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -146 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -145 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -146 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -93 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -147 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 77 -55 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 78 -55 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -146 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 80 -55 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -146 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 82 -55 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -134 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -79 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -55 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -82 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -82 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -82 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -82 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -64 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: X
+Encoding: 88 88 56
+Width: 731
+VWidth: 999
+Flags: W
+HStem: -1 21G<0 113.78 537.28 652> 781 20G<0 114.72 538.22 652>
+LayerCount: 2
+Fore
+SplineSet
+376 400 m 1
+ 652 -1 l 1
+ 551 -1 l 1
+ 326 327 l 1
+ 100 -1 l 1
+ 0 -1 l 1
+ 276 400 l 1
+ 0 801 l 1
+ 101 801 l 1
+ 326 473 l 1
+ 552 801 l 1
+ 652 801 l 1
+ 376 400 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 -136 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -136 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -55 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -136 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -136 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -88 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -121 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -121 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -123 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -121 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -91 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -122 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 74 -155 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -121 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -121 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -78 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -77 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -76 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -94 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -101 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: Y
+Encoding: 89 89 57
+Width: 746
+VWidth: 999
+Flags: W
+HStem: -1 21G<292 374> 781 20G<0 111.506 555.437 666>
+VStem: 292 82<-1 370>
+LayerCount: 2
+Fore
+SplineSet
+333 453 m 1
+ 569 801 l 1
+ 666 801 l 1
+ 374 370 l 1
+ 374 -1 l 1
+ 292 -1 l 1
+ 292 370 l 1
+ 0 801 l 1
+ 98 801 l 1
+ 333 453 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 12 -280 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 14 -249 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 33 -252 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 35 -145 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -145 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -249 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -146 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -145 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -118 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -230 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -230 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -230 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -229 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -129 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -229 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 77 -116 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 78 -116 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -230 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 80 -116 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -231 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 82 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -196 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -134 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -113 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -128 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -113 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -105 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -118 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -84 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: Z
+Encoding: 90 90 58
+Width: 690
+VWidth: 999
+Flags: W
+HStem: -1 82<102 610> 719 82<0 508>
+LayerCount: 2
+Fore
+SplineSet
+508 719 m 1
+ -0 719 l 1
+ -0 801 l 1
+ 610 801 l 1
+ 610 719 l 1
+ 102 81 l 1
+ 610 81 l 1
+ 610 -1 l 1
+ -0 -1 l 1
+ -0 81 l 1
+ 508 719 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 -110 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -83 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -32 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -90 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -90 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 6 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -93 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -93 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -93 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -79 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -70 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -84 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -47 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -67 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 6 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -76 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -19 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -57 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -70 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -82 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 59
+Width: 272
+VWidth: 999
+Flags: W
+HStem: -96 81<83 192> 815 81<83 192>
+VStem: 0 192<-96 -15 815 896> 0 83<-15 815>
+LayerCount: 2
+Fore
+SplineSet
+0 -96 m 1xe0
+ 0 896 l 1
+ 192 896 l 1
+ 192 815 l 1xe0
+ 83 815 l 1
+ 83 -15 l 1xd0
+ 192 -15 l 1
+ 192 -96 l 1
+ 0 -96 l 1xe0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 60
+Width: 333
+VWidth: 999
+Flags: W
+HStem: -1 21G<167.711 254> 781 20G<0 86.2893>
+VStem: 0 254
+LayerCount: 2
+Fore
+SplineSet
+172 -1 m 1
+ 0 801 l 1
+ 82 801 l 1
+ 254 -1 l 1
+ 172 -1 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 61
+Width: 271
+VWidth: 999
+Flags: W
+HStem: -96 81<0 109> 815 81<0 109>
+VStem: 0 192<-96 -15 815 896> 109 83<-15 815>
+LayerCount: 2
+Fore
+SplineSet
+0 896 m 1xe0
+ 192 896 l 1
+ 192 -96 l 1
+ 0 -96 l 1
+ 0 -15 l 1xe0
+ 109 -15 l 1
+ 109 815 l 1xd0
+ 0 815 l 1
+ 0 896 l 1xe0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 62
+Width: 434
+VWidth: 999
+Flags: W
+HStem: 509 292
+LayerCount: 2
+Fore
+SplineSet
+137 801 m 1
+ 218 801 l 1
+ 355 509 l 1
+ 273 509 l 1
+ 177 714 l 1
+ 82 509 l 1
+ -0 509 l 1
+ 137 801 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 63
+Width: 693
+VWidth: 999
+Flags: W
+HStem: -96 81<0 614>
+LayerCount: 2
+Fore
+SplineSet
+0 -15 m 1
+ 614 -15 l 1
+ 614 -96 l 1
+ 0 -96 l 1
+ 0 -15 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: grave
+Encoding: 96 96 64
+Width: 312
+VWidth: 999
+Flags: W
+HStem: 509 306
+VStem: 0 233
+LayerCount: 2
+Fore
+SplineSet
+82 815 m 1
+ 233 509 l 1
+ 151 509 l 1
+ 0 815 l 1
+ 82 815 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: a
+Encoding: 97 97 65
+Width: 674
+Flags: W
+HStem: -15 82<201.184 384.581> -1 21G<507 589> 512 82<203.55 384.581> 560 20G<507 589>
+VStem: -5 82<192.238 385.912> 507 82<-1 112 193.408 385.592 466 580>
+LayerCount: 2
+Fore
+SplineSet
+507 297 m 1xac
+ 503 416 409 512 292 512 c 0
+ 173 512 77 411 77 289 c 0
+ 77 167 173 67 292 67 c 0
+ 409 67 503 163 507 282 c 1
+ 507 297 l 1xac
+507 112 m 1
+ 465 35 392 -15 292 -15 c 0
+ 128 -15 -5 121 -5 289 c 0
+ -5 457 128 594 292 594 c 0xac
+ 392 594 465 543 507 466 c 1
+ 507 580 l 1
+ 589 580 l 1
+ 589 -1 l 1
+ 507 -1 l 1x5c
+ 507 112 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 52 -172 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -105 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -95 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -129 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -17 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: b
+Encoding: 98 98 66
+Width: 668
+Flags: W
+HStem: -15 82<204.419 387.674> -1 21G<0 82> 511 82<204.419 387.674> 780 20G<0 82>
+VStem: 0 82<-1 112 192.583 384.592 466 800> 511 82<192.238 385.762>
+LayerCount: 2
+Fore
+SplineSet
+82 281 m 1xbc
+ 86 162 180 67 297 67 c 0
+ 416 67 511 167 511 289 c 0
+ 511 411 416 511 297 511 c 0
+ 180 511 86 415 82 296 c 1
+ 82 281 l 1xbc
+82 466 m 1
+ 124 543 197 593 297 593 c 0
+ 461 593 593 457 593 289 c 0
+ 593 121 461 -15 297 -15 c 0xbc
+ 197 -15 124 35 82 112 c 1
+ 82 -1 l 1
+ 0 -1 l 1x7c
+ 0 800 l 1
+ 82 800 l 1
+ 82 466 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 12 -78 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 14 -42 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 33 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -29 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -59 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -230 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -152 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -139 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -87 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -218 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -45 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -84 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -64 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -81 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -89 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -43 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: c
+Encoding: 99 99 67
+Width: 629
+Flags: W
+HStem: -15 82<200.773 384.213> 512 82<203.161 384.213>
+VStem: -5 80<192.02 386.13>
+LayerCount: 2
+Fore
+SplineSet
+549 442 m 1
+ 480 401 l 1
+ 441 470 370 512 292 512 c 0
+ 172 512 75 412 75 289 c 0
+ 75 166 172 67 292 67 c 0
+ 370 67 441 109 480 178 c 1
+ 549 137 l 1
+ 496 43 398 -15 292 -15 c 0
+ 128 -15 -5 121 -5 289 c 0
+ -5 457 128 594 292 594 c 0
+ 398 594 496 536 549 442 c 1
+EndSplineSet
+Validated: 1
+Kerns2: 12 -41 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 33 -61 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -27 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -197 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -150 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -103 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -134 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -20 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -36 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -36 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -36 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -35 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -36 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -36 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -36 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -62 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -63 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -31 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -79 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -47 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -22 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: d
+Encoding: 100 100 68
+Width: 673
+Flags: W
+HStem: -15 82<201.184 384.348> -1 21G<506 588> 511 82<201.184 384.348> 780 20G<506 588>
+VStem: -5 82<192.238 385.762> 506 82<-1 112 192.583 384.592 466 800>
+LayerCount: 2
+Fore
+SplineSet
+506 296 m 1xbc
+ 502 415 409 511 292 511 c 0
+ 173 511 77 411 77 289 c 0
+ 77 167 173 67 292 67 c 0
+ 409 67 502 162 506 281 c 1
+ 506 296 l 1xbc
+506 466 m 1
+ 506 800 l 1
+ 588 800 l 1
+ 588 -1 l 1
+ 506 -1 l 1x7c
+ 506 112 l 1
+ 464 35 392 -15 292 -15 c 0
+ 128 -15 -5 121 -5 289 c 0
+ -5 457 128 593 292 593 c 0
+ 392 593 464 543 506 466 c 1
+EndSplineSet
+Validated: 1
+Kerns2: 89 -17 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: e
+Encoding: 101 101 69
+Width: 627
+Flags: W
+HStem: -15 82<192.656 410.971> 251 83<79 463> 513 81<194.977 369.827>
+VStem: -5 83<186.263 251 334 395.083>
+LayerCount: 2
+Fore
+SplineSet
+463 334 m 1
+ 455 406 425 456 382 484 c 0
+ 353 503 319 513 284 513 c 0
+ 231 513 178 491 138 451 c 0
+ 107 419 87 378 79 334 c 1
+ 463 334 l 1
+80 508 m 0
+ 135 565 211 594 285 594 c 0
+ 335 594 385 580 427 552 c 0
+ 494 507 545 426 547 301 c 0
+ 547 300 547 251 547 251 c 1
+ 78 251 l 1
+ 95 146 175 67 282 67 c 0
+ 402 67 470 116 470 116 c 1
+ 522 49 l 1
+ 522 49 446 -15 282 -15 c 0
+ 118 -15 -5 122 -5 292 c 0
+ -5 373 25 451 80 508 c 0
+EndSplineSet
+Validated: 1
+Kerns2: 12 -42 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 33 -91 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -61 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -36 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -203 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -168 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -133 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -84 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -194 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -49 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -67 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -68 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -54 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -94 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -93 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -35 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: f
+Encoding: 102 102 70
+Width: 407
+Flags: W
+HStem: -0 21G<80 163> 498 83<0 80 163 306> 757 83<194.179 319.207>
+VStem: 80 83<0 498 581 725.788>
+LayerCount: 2
+Fore
+SplineSet
+80 666 m 2
+ 80 762 158 840 254 840 c 0
+ 298 840 327 829 327 829 c 1
+ 318 754 l 1
+ 318 754 298 757 254 757 c 0
+ 203 757 163 717 163 666 c 2
+ 163 581 l 1
+ 306 581 l 1
+ 306 498 l 1
+ 163 498 l 1
+ 163 -0 l 1
+ 80 -0 l 1
+ 80 498 l 1
+ 0 498 l 1
+ 0 581 l 1
+ 80 581 l 1
+ 80 666 l 2
+EndSplineSet
+Validated: 1
+Kerns2: 33 -126 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 35 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -163 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -59 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -83 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -109 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 77 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 78 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 80 -85 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 82 -25 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -92 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -18 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -45 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -49 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -36 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -49 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -36 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: g
+Encoding: 103 103 71
+Width: 622
+Flags: W
+HStem: -236 82<115.525 354.31> 38 82<179.32 351.641> 513 81<182.488 351.641> 560 20G<455 537>
+VStem: -5 82<226.769 405.337> 455 82<-48.8606 146 225.67 407.33 486 580>
+LayerCount: 2
+Fore
+SplineSet
+455 333 m 1xec
+ 447 433 366 513 266 513 c 0
+ 161 513 77 424 77 316 c 0
+ 77 208 161 120 266 120 c 0
+ 366 120 447 200 455 300 c 1
+ 455 333 l 1xec
+252 -236 m 0
+ 105 -236 11 -176 11 -176 c 1
+ 55 -107 l 1
+ 55 -107 132 -154 252 -154 c 0
+ 375 -154 451 -84 455 43 c 1
+ 455 146 l 1
+ 417 80 353 38 266 38 c 0
+ 116 38 -5 162 -5 316 c 0
+ -5 470 116 594 266 594 c 0xec
+ 353 594 417 552 455 486 c 1
+ 455 580 l 1
+ 537 580 l 1xdc
+ 537 52 l 2
+ 537 -129 424 -236 252 -236 c 0
+EndSplineSet
+Validated: 1
+Kerns2: 52 -152 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -92 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -95 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -129 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -26 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: h
+Encoding: 104 104 72
+Width: 566
+Flags: W
+HStem: -0 21G<0 82 404 487> 508 85<179.452 336.365> 780 20G<0 82>
+VStem: 0 82<0 409.782 479 800> 404 83<0 439.18>
+LayerCount: 2
+Fore
+SplineSet
+82 479 m 1
+ 120 548 184 593 269 593 c 0
+ 395 593 487 494 486 367 c 1
+ 487 367 l 1
+ 487 -0 l 1
+ 404 -0 l 1
+ 404 369 l 1
+ 400 448 340 508 260 508 c 0
+ 190 508 126 462 97 398 c 0
+ 87 376 82 352 82 328 c 0
+ 82 263 82 -0 82 -0 c 1
+ 0 -0 l 1
+ 0 800 l 1
+ 82 800 l 1
+ 82 479 l 1
+EndSplineSet
+Validated: 33
+Kerns2: 52 -174 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -123 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -126 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -140 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -57 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -58 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -54 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -40 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -76 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: i
+Encoding: 105 105 73
+Width: 193
+VWidth: 999
+Flags: W
+HStem: -1 21G<16 98> 560 20G<16 98> 687 114<13.1711 100.829>
+VStem: -0 114<700.171 787.829> 16 82<-1 580>
+LayerCount: 2
+Fore
+SplineSet
+98 580 m 1xe8
+ 98 -1 l 1
+ 16 -1 l 1
+ 16 580 l 1
+ 98 580 l 1xe8
+57 801 m 0
+ 88 801 114 775 114 744 c 0
+ 114 713 88 687 57 687 c 0
+ 26 687 0 713 -0 744 c 0xf0
+ 0 775 26 801 57 801 c 0
+EndSplineSet
+Validated: 1
+Kerns2: 89 -31 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: j
+Encoding: 106 106 74
+Width: 194
+Flags: W
+HStem: -236 82<-151.162 -24.4933> 560 20G<17 99> 702 113<14.1711 101.829>
+VStem: 1 114<715.171 802.236> 17 82<-111.828 580>
+LayerCount: 2
+Fore
+SplineSet
+58 815 m 0xf0
+ 89 815 115 790 115 759 c 0
+ 115 728 89 702 58 702 c 0
+ 27 702 1 728 1 759 c 0
+ 1 790 27 815 58 815 c 0xf0
+17 -49 m 2xe8
+ 17 580 l 1
+ 99 580 l 1
+ 99 -49 l 2
+ 99 -152 15 -236 -88 -236 c 0
+ -138 -236 -185 -216 -220 -181 c 1
+ -162 -123 l 1
+ -142 -143 -116 -154 -88 -154 c 0
+ -30 -154 17 -107 17 -49 c 2xe8
+EndSplineSet
+Validated: 1
+Kerns2: 89 -37 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: k
+Encoding: 107 107 75
+Width: 572
+VWidth: 999
+Flags: W
+HStem: -1 21G<0 82 371.214 493> 560 20G<314.476 444> 781 20G<0 82>
+VStem: 0 82<-1 189 309 801>
+LayerCount: 2
+Fore
+SplineSet
+82 309 m 1
+ 333 580 l 1
+ 444 580 l 1
+ 223 340 l 1
+ 493 -1 l 1
+ 387 -1 l 1
+ 166 279 l 1
+ 82 189 l 1
+ 82 -1 l 1
+ 0 -1 l 1
+ 0 801 l 1
+ 82 801 l 1
+ 82 309 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 -87 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -87 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -82 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -87 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -87 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -53 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -166 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 53 -66 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -128 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -129 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -138 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -89 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -88 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -88 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -88 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -65 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -81 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -101 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -89 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -64 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -100 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 85 -61 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -109 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -104 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -141 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: l
+Encoding: 108 108 76
+Width: 162
+Flags: W
+HStem: 0 21G<0 82> 795 20G<0 82>
+VStem: 0 82<0 801>
+LayerCount: 2
+Fore
+SplineSet
+82 815 m 1
+ 82 0 l 1
+ 0 0 l 1
+ 0 801 l 1
+ 82 815 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 89 -17 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: m
+Encoding: 109 109 77
+Width: 973
+Flags: W
+HStem: 0 21G<0 82 405 488 811 893> 509 85<179.952 337.782 585.487 742.559> 560 20G<0 82>
+VStem: 0 82<0 410.782 480 580> 405 83<0 410.782> 811 82<0 440.18>
+CounterMasks: 1 1c
+LayerCount: 2
+Fore
+SplineSet
+474 451 m 1xdc
+ 510 535 578 594 675 594 c 0
+ 801 594 894 495 893 368 c 1
+ 893 0 l 1
+ 811 0 l 1
+ 811 370 l 1
+ 807 449 746 509 666 509 c 0
+ 596 509 532 463 503 399 c 0
+ 493 377 488 353 488 329 c 0
+ 488 264 488 0 488 0 c 1
+ 405 0 l 1
+ 405 370 l 1
+ 401 449 341 509 261 509 c 0xdc
+ 191 509 127 463 98 399 c 0
+ 88 377 82 353 82 329 c 0
+ 82 264 82 0 82 0 c 1
+ 0 0 l 1
+ 0 580 l 1
+ 82 580 l 1xbc
+ 82 480 l 1
+ 120 549 184 594 269 594 c 0
+ 366 594 444 535 474 451 c 1xdc
+EndSplineSet
+Validated: 33
+Kerns2: 52 -147 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -130 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -90 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -97 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -49 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -53 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -30 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -6 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -76 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: n
+Encoding: 110 110 78
+Width: 567
+Flags: W
+HStem: 0 21G<0 82 405 488> 509 85<179.952 336.957> 560 20G<0 82>
+VStem: 0 82<0 410.782 480 580> 405 83<0 440.18>
+LayerCount: 2
+Fore
+SplineSet
+82 480 m 1xb8
+ 120 549 184 594 269 594 c 0
+ 395 594 489 495 488 368 c 1
+ 488 0 l 1
+ 405 0 l 1
+ 405 370 l 1
+ 401 449 341 509 261 509 c 0xd8
+ 191 509 127 463 98 399 c 0
+ 88 377 82 353 82 329 c 0
+ 82 264 82 0 82 0 c 1
+ 0 0 l 1
+ 0 580 l 1
+ 82 580 l 1
+ 82 480 l 1xb8
+EndSplineSet
+Validated: 33
+Kerns2: 52 -147 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -130 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -97 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -130 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -49 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -53 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -34 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -20 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -76 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: o
+Encoding: 111 111 79
+Width: 669
+Flags: W
+HStem: -15 82<200.773 383.227> 512 82<203.161 380.839>
+VStem: -5 80<192.02 386.13> 509 80<192.02 386.13>
+LayerCount: 2
+Fore
+SplineSet
+292 512 m 0
+ 172 512 75 412 75 289 c 0
+ 75 166 172 67 292 67 c 0
+ 412 67 509 166 509 289 c 0
+ 509 412 412 512 292 512 c 0
+292 594 m 0
+ 456 594 589 457 589 289 c 0
+ 589 121 456 -15 292 -15 c 0
+ 128 -15 -5 121 -5 289 c 0
+ -5 457 128 594 292 594 c 0
+EndSplineSet
+Validated: 1
+Kerns2: 12 -84 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 14 -48 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 33 -77 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -247 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -162 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -134 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -100 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -192 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -100 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -74 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -74 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -67 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -51 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -101 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -102 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -62 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: p
+Encoding: 112 112 80
+Width: 669
+Flags: W
+HStem: -222 21G<0 82> -15 82<204.419 387.816> 512 82<204.419 385.45> 560 20G<0 82>
+VStem: 0 82<-222 112 193.408 385.592 466 580> 512 82<192.238 385.912>
+LayerCount: 2
+Fore
+SplineSet
+82 282 m 1xec
+ 86 163 180 67 297 67 c 0
+ 416 67 512 167 512 289 c 0
+ 512 411 416 512 297 512 c 0
+ 180 512 86 416 82 297 c 1
+ 82 282 l 1xec
+82 466 m 1
+ 124 543 197 594 297 594 c 0xec
+ 461 594 594 457 594 289 c 0
+ 594 121 461 -15 297 -15 c 0
+ 197 -15 124 35 82 112 c 1
+ 82 -222 l 1
+ 0 -222 l 1
+ 0 580 l 1
+ 82 580 l 1xdc
+ 82 466 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 33 -77 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -207 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -168 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -134 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -93 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -165 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -74 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -74 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -73 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -51 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -81 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -95 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -50 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: q
+Encoding: 113 113 81
+Width: 674
+Flags: W
+HStem: -222 21G<507 589> -15 82<201.184 384.581> 512 82<203.55 384.581> 560 20G<507 589>
+VStem: -5 82<192.238 385.912> 507 82<-222 112 193.408 385.592 466 580>
+LayerCount: 2
+Fore
+SplineSet
+507 282 m 1xec
+ 507 297 l 1
+ 503 416 409 512 292 512 c 0
+ 173 512 77 411 77 289 c 0
+ 77 167 173 67 292 67 c 0
+ 409 67 503 163 507 282 c 1xec
+507 466 m 1
+ 507 580 l 1
+ 589 580 l 1xdc
+ 589 -222 l 1
+ 507 -222 l 1
+ 507 112 l 1
+ 465 35 392 -15 292 -15 c 0
+ 128 -15 -5 121 -5 289 c 0
+ -5 457 128 594 292 594 c 0
+ 392 594 465 543 507 466 c 1
+EndSplineSet
+Validated: 1
+Kerns2: 52 -125 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -78 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -69 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -116 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: r
+Encoding: 114 114 82
+Width: 377
+Flags: W
+HStem: -0 21G<0 84.0518> 525 85<149.781 297.965> 575 20G<0 84>
+VStem: 0 84<0 458.18 541 595>
+LayerCount: 2
+Fore
+SplineSet
+84 541 m 1xb0
+ 114 583 161 610 224 610 c 0
+ 249 610 298 602 298 602 c 1
+ 298 519 l 1
+ 298 519 250 525 224 525 c 0xd0
+ 147 525 85 463 85 386 c 2
+ 84 -0 l 1
+ 0 -0 l 1
+ 0 595 l 1
+ 84 595 l 1
+ 84 541 l 1xb0
+EndSplineSet
+Validated: 1
+Kerns2: 33 -136 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 35 -22 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -22 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -171 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -22 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -22 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -151 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -87 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -72 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -79 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -101 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -103 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -134 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -81 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -81 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -64 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 74 -201 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -81 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -81 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -50 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -32 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: s
+Encoding: 115 115 83
+Width: 517
+Flags: W
+HStem: -15 87<105.202 304.546> 522 88<144.798 328.55>
+VStem: 13 88<384.197 481.311> 349 88<112.954 210.382>
+LayerCount: 2
+Fore
+SplineSet
+423 539 m 1
+ 358 481 l 1
+ 358 481 317 522 226 522 c 0
+ 153 522 101 482 101 433 c 0
+ 101 427 102 422 103 416 c 0
+ 116 360 185 352 241 340 c 0
+ 335 319 421 287 436 177 c 0
+ 437 171 437 164 437 158 c 0
+ 437 69 351 -15 218 -15 c 0
+ 95 -15 -5 49 -5 49 c 1
+ 43 123 l 1
+ 43 123 121 72 218 72 c 0
+ 261 72 298 84 322 105 c 0
+ 339 119 349 138 349 158 c 0
+ 349 160 349 162 349 165 c 0
+ 338 244 245 246 175 265 c 0
+ 99 284 36 316 17 395 c 0
+ 14 407 13 419 13 431 c 0
+ 13 522 94 610 226 610 c 0
+ 365 610 423 539 423 539 c 1
+EndSplineSet
+Validated: 1
+Kerns2: 33 -50 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -26 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -223 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -150 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -122 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -56 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -172 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -42 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -29 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 70 -55 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -64 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 86 -44 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 87 -41 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 88 -42 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -67 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 90 -38 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: t
+Encoding: 116 116 84
+Width: 451
+Flags: W
+HStem: -15 82<211.365 357.761> 497 82<0 94 176 351>
+VStem: 94 82<100.401 497 579 718>
+LayerCount: 2
+Fore
+SplineSet
+176 579 m 1
+ 351 579 l 1
+ 351 497 l 1
+ 176 497 l 1
+ 176 159 l 2
+ 176 108 218 67 269 67 c 0
+ 320 67 355 74 355 74 c 1
+ 371 0 l 1
+ 371 0 308 -15 269 -15 c 0
+ 172 -15 94 63 94 160 c 2
+ 94 497 l 1
+ 0 497 l 1
+ 0 579 l 1
+ 94 579 l 1
+ 94 718 l 1
+ 176 732 l 1
+ 176 579 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 -20 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -20 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -55 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -20 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -20 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -25 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -97 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -103 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -90 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -108 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -50 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -51 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -52 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -50 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -60 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -51 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -49 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -48 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -55 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -42 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: u
+Encoding: 117 117 85
+Width: 566
+Flags: W
+HStem: -15 84<150.441 307.367> -1 21G<405 487> 559 20G<0 82 405 487>
+VStem: 0 82<137.82 579> 405 82<-1 99 167.218 579>
+LayerCount: 2
+Fore
+SplineSet
+389 179 m 0xb8
+ 399 201 405 225 405 249 c 0
+ 405 314 405 579 405 579 c 1
+ 487 579 l 1
+ 487 -1 l 1
+ 405 -1 l 1x78
+ 405 99 l 1
+ 367 30 303 -15 218 -15 c 0
+ 92 -15 -1 83 0 210 c 1
+ 0 579 l 1
+ 82 579 l 1
+ 82 208 l 1
+ 86 129 147 69 227 69 c 0
+ 297 69 360 115 389 179 c 0xb8
+EndSplineSet
+Validated: 33
+Kerns2: 52 -150 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -91 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -87 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -102 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -17 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: v
+Encoding: 118 118 86
+Width: 679
+VWidth: 999
+Flags: W
+HStem: -1 21G<244.291 355.709> 560 20G<0 102.71 497.29 600>
+LayerCount: 2
+Fore
+SplineSet
+300 107 m 1
+ 506 580 l 1
+ 600 580 l 1
+ 347 -1 l 1
+ 253 -1 l 1
+ 0 580 l 1
+ 94 580 l 1
+ 300 107 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 12 -200 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 14 -168 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 33 -186 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 35 -32 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -32 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -147 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -32 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -32 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -21 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -139 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -113 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -120 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -129 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -105 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -79 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -83 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -81 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -62 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -34 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: w
+Encoding: 119 119 87
+Width: 1007
+VWidth: 999
+Flags: W
+HStem: -1 21G<200.828 309.2 617.844 726.207> 559 20G<0 101.171 409.784 518.171 826.784 928>
+LayerCount: 2
+Fore
+SplineSet
+417 579 m 1
+ 511 579 l 1
+ 672 130 l 1
+ 834 579 l 1
+ 928 579 l 1
+ 719 -1 l 1
+ 625 -1 l 1
+ 464 449 l 1
+ 302 -1 l 1
+ 208 -1 l 1
+ 0 579 l 1
+ 94 579 l 1
+ 255 130 l 1
+ 417 579 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 12 -160 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 14 -128 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 33 -184 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -134 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -19 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -137 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -100 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -103 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -86 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -115 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -99 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -64 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -64 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -64 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -70 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -68 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -64 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -64 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -39 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -32 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: x
+Encoding: 120 120 88
+Width: 580
+VWidth: 999
+Flags: W
+HStem: -1 21G<1 114.733 385.267 500> 560 20G<0 114.67 386.239 500>
+LayerCount: 2
+Fore
+SplineSet
+250 362 m 1
+ 400 580 l 1
+ 500 580 l 1
+ 300 289 l 1
+ 500 -1 l 1
+ 399 -1 l 1
+ 250 216 l 1
+ 101 -1 l 1
+ 1 -1 l 1
+ 200 289 l 1
+ 0 580 l 1
+ 101 580 l 1
+ 250 362 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 -32 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -32 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -40 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -32 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -32 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -26 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -135 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -99 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -89 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -152 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -67 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -67 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -67 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -66 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -66 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 74 -159 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -67 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -67 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -55 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 84 -37 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -45 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: y
+Encoding: 121 121 89
+Width: 679
+VWidth: 999
+Flags: W
+HStem: -237 86<76.0462 191.195> 560 20G<0 102.71 497.29 600>
+LayerCount: 2
+Fore
+SplineSet
+300 107 m 1
+ 506 580 l 1
+ 600 580 l 1
+ 284 -146 l 1
+ 258 -201 203 -237 141 -237 c 0
+ 99 -237 59 -220 29 -190 c 1
+ 90 -130 l 1
+ 103 -144 122 -151 141 -151 c 0
+ 168 -151 192 -135 204 -112 c 1
+ 253 -1 l 1
+ 0 580 l 1
+ 94 580 l 1
+ 300 107 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 12 -229 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 14 -192 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 33 -193 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 35 -19 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -19 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -151 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -19 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -19 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 51 -22 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -132 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -106 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -101 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 56 -106 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -109 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 58 -111 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -82 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -82 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -56 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -46 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: z
+Encoding: 122 122 90
+Width: 513
+VWidth: 999
+Flags: W
+HStem: -1 83<102 433> 497 83<0 331>
+LayerCount: 2
+Fore
+SplineSet
+-0 497 m 1
+ -0 580 l 1
+ 433 580 l 1
+ 433 497 l 1
+ 102 82 l 1
+ 433 82 l 1
+ 433 -1 l 1
+ -0 -1 l 1
+ -0 82 l 1
+ 331 497 l 1
+ -0 497 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 35 -5 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 39 -18 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 42 -27 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 47 -18 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 49 -11 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 52 -139 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 54 -92 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 55 -80 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 57 -129 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 65 -48 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 67 -48 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 68 -48 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 69 -47 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 71 -36 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 79 -34 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 81 -48 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 83 -12 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1" 89 -22 "'kern' Horizontale Unterschneidung in Lateinisch Nachschlagetabelle 0-1"
+EndChar
+
+StartChar: braceleft
+Encoding: 123 123 91
+Width: 345
+VWidth: 999
+Flags: W
+HStem: -96 83<192.092 266> 359 82<0 73.9079> 813 83<192.092 266>
+VStem: 93 80<6.15071 339.908 460.092 793.849>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+93 290 m 2
+ 93 328 62 359 24 359 c 2
+ 0 359 l 1
+ 0 441 l 1
+ 24 441 l 2
+ 62 441 93 472 93 510 c 2
+ 93 751 l 2
+ 93 840 149 896 238 896 c 2
+ 266 896 l 1
+ 266 813 l 1
+ 242 813 l 2
+ 204 813 173 782 173 744 c 2
+ 173 503 l 2
+ 173 460 160 425 136 400 c 1
+ 160 375 173 340 173 297 c 2
+ 173 56 l 2
+ 173 18 204 -13 242 -13 c 2
+ 266 -13 l 1
+ 266 -96 l 1
+ 238 -96 l 2
+ 149 -96 93 -40 93 49 c 2
+ 93 290 l 2
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bar
+Encoding: 124 124 92
+Width: 162
+VWidth: 999
+Flags: W
+VStem: -0 83<-95 896>
+LayerCount: 2
+Fore
+SplineSet
+-0 -95 m 1
+ -0 896 l 1
+ 83 896 l 1
+ 83 -95 l 1
+ -0 -95 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: braceright
+Encoding: 125 125 93
+Width: 345
+VWidth: 999
+Flags: W
+HStem: -96 83<0 73.9079> 359 82<192.092 266> 813 83<0 73.9079>
+VStem: 93 80<6.15071 339.908 460.092 793.849>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+173 510 m 2
+ 173 472 204 441 242 441 c 2
+ 266 441 l 1
+ 266 359 l 1
+ 242 359 l 2
+ 204 359 173 328 173 290 c 2
+ 173 49 l 2
+ 173 -40 117 -96 28 -96 c 2
+ 0 -96 l 1
+ 0 -13 l 1
+ 24 -13 l 2
+ 62 -13 93 18 93 56 c 2
+ 93 297 l 2
+ 93 340 105 375 129 400 c 1
+ 105 425 93 460 93 503 c 2
+ 93 744 l 2
+ 93 782 62 813 24 813 c 2
+ 0 813 l 1
+ 0 896 l 1
+ 28 896 l 2
+ 117 896 173 840 173 751 c 2
+ 173 510 l 2
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 94
+Width: 534
+VWidth: 999
+Flags: W
+HStem: 333 67<253.928 371.974> 402 65<77.1967 197.334>
+VStem: 0 64<336 387.81> 384 70<412.226 465>
+LayerCount: 2
+Fore
+SplineSet
+130 402 m 0
+ 90 402 64 381 64 336 c 1
+ 0 336 l 1
+ 0 396 27 433 64 452 c 0
+ 84 462 106 467 130 467 c 0
+ 171 467 215 453 247 427 c 0
+ 267 411 295 400 321 400 c 0
+ 360 400 384 421 384 465 c 1
+ 454 465 l 1
+ 454 403 425 366 388 347 c 0
+ 369 337 346 333 323 333 c 0
+ 281 333 236 348 204 375 c 0
+ 184 392 156 402 130 402 c 0
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: space
+Encoding: 32 32 95
+Width: 299
+VWidth: 999
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+EndChars
+EndSplineFont
