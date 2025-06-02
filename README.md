@@ -10,6 +10,6 @@ That's because browsers based on Chromium have a tendency to automatically pause
 
 # Credits
 Glass Container on [css.glass](https://css.glass) <br>
-[MintSans by ppprmint.de](https://pprmint.de/projects/mintsans)
+[MintSans by ppprmint.de](https://pprmint.de/projects/mintsans) <br>
 [Background](https://www.youtube.com/watch?v=MUVo20q6tx8) <br>
 Background Audio: [Extras Menu - Sonic Mega Collection](https://www.youtube.com/watch?v=EmFsRw6zGi0)
