@@ -60,7 +60,7 @@ h1 {
 }
 
 #para {
-    margin: 10px 0;
+    margin-top: 10px;
 }
 
 
@@ -97,48 +97,4 @@ a:active {
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 8px;
     padding: 10px;
-}
-
-#status {
-    border: 1px solid;
-    padding: 10px;
-    border-radius: 10px;
-}
-
-hr {
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    margin: 20px auto;
-    width: 50%;
-}
-
-#note {
-    font-size: 12px;
-    color: #ccc;
-    margin-top: 7px;
-    font-style: italic;
-}
-
-svg {
-    width: 27px;
-    vertical-align: middle;
-    padding-right: 7px;
-}
-
-#note {
-    font-size: 12px;
-    color: #ccc;
-    margin-top: 7px;
-    font-style: italic;
-    text-align: center;
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    padding: 10px;
-    margin-top: 20px;
-}
-
-
-#note svg {
-    fill: #ccc;
-    width: 30px;
-    vertical-align: middle;
-    margin-right: 2px;
 }

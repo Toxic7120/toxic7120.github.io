@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Status</title>
+    <link rel="stylesheet" href="statusstyle.css">
+    <link rel="icon" type="image/x-icon" href="contents/discord.png">
+</head>
+<body>
+    
+    <video autoplay muted loop id="video">
+        <source src="contents/Matrix Rain Codes (4K FULL HD).mp4" type="video/mp4">
+    </video>
+    
+    <audio  loop autoplay id="music" controls>
+        <source src="contents/Extras Menu - Sonic Mega Collection [OST].opus" type="audio/mp3">
+    </audio>
+
+    <div class="content">
+        
+        <a href="../index.html">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 15 15"><path d="M6 14H3.5A1.5 1.5 0 0 1 2 12.5V7.707l-.5.5L.793 7.5 7.5.793 14.207 7.5l-.707.707-.5-.5V12.5a1.5 1.5 0 0 1-1.5 1.5H9V9.5a.5.5 0 0 0-.5-.5h-2a.5.5 0 0 0-.5.5zm6-7.293-4.5-4.5-4.5 4.5V12.5a.5.5 0 0 0 .5.5H5V9.5A1.5 1.5 0 0 1 6.5 8h2A1.5 1.5 0 0 1 10 9.5V13h1.5a.5.5 0 0 0 .5-.5z"/></svg>
+        </a>
+        
+        <h2>Here's what my status on <img src="contents/discord.png" alt="discord icon" id="discord"> means!</h1>
+        <br>
+        
+        <div class="custom-dropdown">
+            <div class="dropdown-summary">Online</div>
+            <div class="details-content">
+                <br>
+                <img src="contents/online.png" alt="discord online icon">
+                <p>Well... quite self explanatory. I'm Online! Please reach out if you wish!</p>
+         </div>
+        </div>
+        
+        <hr> 
+        
+        <div class="custom-dropdown">
+            <div class="dropdown-summary">Do Not Disturb</div>
+            <div class="details-content">
+                <br>
+                <img src="contents/dnd.png" alt="discord dnd icon">
+                <p>I only turn this on because I don't want to be distracted while doing my work. Try to reach out!, but do expect a delay in a reply.</p>
+         </div>
+        </div>
+        
+        <hr>
+         
+        <div class="custom-dropdown">
+            <div class="dropdown-summary">Idle</div>
+            <div class="details-content">
+                <br>
+                <img src="contents/idle.png" alt="discord idle icon">
+                <p>Only happens when I'm AFK for far too long. Please wait for me to come back, and I'll gladly look at your message!</p>
+         </div>
+        </div>
+        
+        <hr>
+        
+         
+        <div class="custom-dropdown">
+            <div class="dropdown-summary">Offline</div>
+            <div class="details-content">
+                <br>
+                <img src="contents/offline.png" alt="discord offline icon">
+                <p>You know what this means! I'll reach back to you when I get back online!</p>
+         </div>
+        </div>
+        
+        <hr>
+         
+        <div class="custom-dropdown">
+            <div class="dropdown-summary">Extras</div>
+            <div class="details-content">
+                <br>
+                <p>This is for the times when you would see "Playing Custom Status" (as shown below)</p>
+                <br>
+                <img src="contents/custom.png" alt="discord custom status" id="custom-status">
+                <br>
+                <p>This would only happen when I would wish to keep my laptop open but I myself need to go to sleep. (or sometimes, just me using it as a way to say that I'm busy)</p>
+                <br>
+                <p>There are other's that are pretty self explanatory, it shows what I'm doing and for how long (just like any other rich presence)</p>
+                <br>
+                <img src="contents/playing.png" alt="discord playing status" id="playing-status">
+
+         </div>
+        </div>
+        <p id="note"><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 15 15"><path d="M7.5.9c3.643 0 6.6 2.957 6.6 6.6s-2.957 6.6-6.6 6.6A6.603 6.603 0 0 1 .9 7.5C.9 3.857 3.857.9 7.5.9m0 1a5.6 5.6 0 0 0-5.6 5.6c0 3.091 2.509 5.6 5.6 5.6s5.6-2.509 5.6-5.6-2.509-5.6-5.6-5.6"/><path d="M6.8 4.5a.7.7 0 0 1 1.4 0s-.108 1.619-.153 2.8c-.025.672-.025 1.2-.025 1.2a.522.522 0 0 1-1.044 0s0-.528-.025-1.2A121 121 0 0 0 6.8 4.5"/><circle cx="7.5" cy="10.5" r=".75"/></svg>This website is still in production, Somethings may or may not work. Not recommened on Mobile</p> 
+    <p id="fin"><a href="https://pprmint.de/projects/mintsans">Font</a> and <a href="https://pprmint.de/projects/icons">Icon</a> by pprmint.de</p>
+        <footer><p>Made by Toxic on <a href="https://github.com/Toxic7120/toxic7120.github.io">Github</a></p></footer>
+    </div>
+    <script>
+        window.onload = function() {
+            var audio = document.getElementById("music");
+            audio.volume = 0.2; // Set volume (0.0 to 1.0)
+        }
+        document.querySelectorAll('.custom-dropdown').forEach(dropdown => {
+    const summary = dropdown.querySelector('.dropdown-summary');
+    summary.addEventListener('click', () => {
+        dropdown.classList.toggle('open');
+    });
+});
+    </script>
+
+</body>
+
+</html>
