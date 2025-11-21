@@ -8,6 +8,17 @@ If you get something like this, it's intentional. I don't have a proper landing 
 # Why does the music stop upon refresh?
 That's because browsers based on Chromium have a tendency to automatically pause any audio or video that isn't muted upon refresh, Now at the time of writing the update message I don't know how I can add a custom image button (JS is hard lol). I'll leave the in-built controls as is. (Huge props to [Matt's Tech](https://youtube.com/@mattstech?si=5g8nv3ZzPFhlGImb) for letting me know :3)
 
+# TO-DO 
+◼️ Add a "Social" Page/Icons <br>
+◼️ Add a "FAQ" (why, because uhhhhhhhhhhh.... meow :3 ) <br>
+◼️ Add a "Specs" section <br>	
+◼️ REDO THE ENTIRE FUCKING WEBSITE AAAAA- (probably so that the links smoothly transforms the page instead of loading a new website everytime) <br>
+◼️ Mobile Optimization (will happen after i'm done with the majority of the website, probably either when im done adding stuff or if i redid the website) <br>
+◼️ Discord Server????? <br>
+◼️ Contact email and section (honestly idk if i should make a whole new account for it or use my second account for it lol) 
+
+
+
 # Credits
 Glass Container on [css.glass](https://css.glass) <br>
 [MintSans by ppprmint.de](https://pprmint.de/projects/mintsans) <br>
