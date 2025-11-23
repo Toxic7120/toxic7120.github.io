@@ -3,10 +3,7 @@ Welcome!
 my website is currently under process as well as the entire thing cuz i have no fucking idea what im doing lmao
 # I see a 404 Page. What does that mean?
 If you get something like this, it's intentional. I don't have a proper landing page made up at the moment, so I made this instead while I'm working on the landing page.
-![opera_G0SKyKj5VU](https://github.com/user-attachments/assets/27269928-3aa2-4b04-b340-58f92a899d78)
-
-# Why does the music stop upon refresh?
-That's because browsers based on Chromium have a tendency to automatically pause any audio or video that isn't muted upon refresh, Now at the time of writing the update message I don't know how I can add a custom image button (JS is hard lol). I'll leave the in-built controls as is. (Huge props to [Matt's Tech](https://youtube.com/@mattstech?si=5g8nv3ZzPFhlGImb) for letting me know :3)
+<img width="1875" height="966" alt="404 Page" src="https://github.com/user-attachments/assets/977d20b2-3cbc-48c4-a183-5b4d3e3d0489" />
 
 # TO-DO 
 ◼️ Add a "Social" Page/Icons <br>
@@ -17,6 +14,11 @@ That's because browsers based on Chromium have a tendency to automatically pause
 ◼️ Discord Server????? <br>
 ◼️ Contact email and section (honestly idk if i should make a whole new account for it or use my second account for it lol) 
 
+# Why doesn't the music start?<br>
+I disabled the autoplay as some people may not like it automatically starting, I might find how I can make it so that the user chooses to make it autoplay or not but I think thats too much for just a portfolio lol.
+
+# Why are you thinking of redoing the entire website?
+I feel like it's a bit wonky for the websites to move from one place to another and I want to add like cool transitional animations to it. Oh yea, I uh tend to not work on the website for a huge interval of time, and I do not understand what the fuck is going on when I come back lol.
 
 
 # Credits
