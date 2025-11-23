@@ -7,7 +7,7 @@
 /* Mint Sans Regular */
 @font-face {
         font-family: "Mint Sans";
-        src: url('contents/mintsans_2.0/MintSansRegular.otf');
+        src: url('../contents/mintsans_2.0/MintSansRegular.otf');
         font-weight: normal;
         font-style: normal;
     }
@@ -15,7 +15,7 @@
 /* Mint Sans Bold */
 @font-face {
         font-family: "Mint Sans";
-        src: url('contents/mintsans_2.0/MintSansBold.otf');
+        src: url('../contents/mintsans_2.0/MintSansBold.otf');
         font-weight: bold;
         font-style: normal;
     }
