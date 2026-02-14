@@ -1,3 +1,8 @@
+# * Feburary 13th 2026 Update:
+Howdy!, yes im using a read me section as a blog update whatcha gonna do about it. As stated below in the **"Why are you thinking of redoing the entire website"**, I plan to remake the website. I just tried seeing what [Astro.build](https://astro.build) is and safe to say I'm probably never going to be using a single web framework ever again because WHAT THE FFFFFFFFFFF-<br> <br>So now I have 2 choices, redo the website as a static website and see alot of tutorials either from W3 or YouTube. Or I could further indulge into Astro, see how it works and decent into madness. Anywho, thats it for the update!
+<br> ~~yes i've done nothing for the website these past 3 months.~~
+
+----
 # toxic7120.github.io
 Welcome!
 my website is currently under process as well as the entire thing cuz i have no fucking idea what im doing lmao
